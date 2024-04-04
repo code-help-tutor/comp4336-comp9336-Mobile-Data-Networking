@@ -1,0 +1,10 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+Free Space Path Loss CalculatorURL:
+
+	https://www.everythingrf.com/rf-calculators/free-space-path-loss-calculator
+
+Friis Transmission CalculatorURL:
+	
+	https://www.pasternack.com/t-calculator-friis.aspx
